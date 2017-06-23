@@ -1,0 +1,6 @@
+﻿obj\Debug\Tracker.obj : warning LNK4042: object specified more than once; extras ignored
+videoInputD.lib(videoInput.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library bin\funshot2_debug.lib and object bin\funshot2_debug.exp
+ContourFinder.obj : error LNK2019: unresolved external symbol "float __cdecl ofxCv::trackingDistance(class cv::Rect_<int> const &,class cv::Rect_<int> const &)" (?trackingDistance@ofxCv@@YAMABV?$Rect_@H@cv@@0@Z) referenced in function "public: virtual class std::vector<unsigned int,class std::allocator<unsigned int> > const & __thiscall ofxCv::Tracker<class cv::Rect_<int> >::track(class std::vector<class cv::Rect_<int>,class std::allocator<class cv::Rect_<int> > > const &)" (?track@?$Tracker@V?$Rect_@H@cv@@@ofxCv@@UAEABV?$vector@IV?$allocator@I@std@@@std@@ABV?$vector@V?$Rect_@H@cv@@V?$allocator@V?$Rect_@H@cv@@@std@@@4@@Z)
+ObjectFinder.obj : error LNK2001: unresolved external symbol "float __cdecl ofxCv::trackingDistance(class cv::Rect_<int> const &,class cv::Rect_<int> const &)" (?trackingDistance@ofxCv@@YAMABV?$Rect_@H@cv@@0@Z)
+bin\funshot2_debug.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,68 @@
+﻿  Clone.cpp
+  ImageButton.cpp
+  ImageSlideShow.cpp
+  main.cpp
+  ofApp.cpp
+  ETF.cpp
+  fdog.cpp
+  Calibration.cpp
+  ContourFinder.cpp
+  Distance.cpp
+  Flow.cpp
+  Helpers.cpp
+  Kalman.cpp
+  ObjectFinder.cpp
+  RunningBackground.cpp
+c:\users\quasar\documents\of_v0.9.0_vs_release\addons\ofxcv\libs\ofxcv\src\distance.cpp(32): warning C4700: uninitialized local variable 'bestScore' used
+  Tracker.cpp
+C:\Users\Quasar\Documents\of_v0.9.0_vs_release\addons\ofxCv\libs\ofxCv\include\ofxCv/Tracker.h(324): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Tracker.cpp)
+  Utilities.cpp
+  Wrappers.cpp
+  Expression.cpp
+  ExpressionClassifier.cpp
+  ofxFaceTracker.cpp
+c:\users\quasar\documents\of_v0.9.0_vs_release\addons\ofxfacetracker\src\ofxfacetracker.cpp(285): warning C4715: 'ofxFaceTracker::getDirection': not all control paths return a value
+c:\users\quasar\documents\of_v0.9.0_vs_release\addons\ofxfacetracker\src\ofxfacetracker.cpp(45): warning C4715: 'ofxFaceTracker::getFeatureIndices': not all control paths return a value
+  CLM.cc
+  FCheck.cc
+  FDet.cc
+  IO.cc
+  Patch.cc
+  PAW.cc
+  PDM.cc
+  Tracker.cc
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\FDet.cc(93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\FDet.cc(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\FDet.cc(100): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Patch.cc(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(138): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(152): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(153): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(173): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(177): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(178): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(185): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxFaceTracker\libs\FaceTracker\src\lib\Tracker.cc(186): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+  ofxCvShortImage.cpp
+     Creating library bin\funshot2.lib and object bin\funshot2.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  funshot2.vcxproj -> C:\Users\Quasar\Documents\of_v0.9.0_vs_release\apps\myApps\funshot2\bin\funshot2.exe
+  
+  	                   9	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\
+  	    New File  		 2939392	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\assimp.dll
+  	    New File  		  289280	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\fmodex.dll
+  	    New File  		  330752	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\fmodexL.dll
+  	    New File  		 5647872	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\FreeImage.dll
+  	    New File  		  580608	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\freetype.dll
+  	    New File  		  237568	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\glut32.dll
+  	    New File  		 1178624	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\libeay32.dll
+  	    New File  		  269824	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\ssleay32.dll
+  	    New File  		   69632	C:\Users\Quasar\Documents\of_v0.9.0_vs_release\export\vs\Win32\Zlib.dll
